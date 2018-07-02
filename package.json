@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@types/enzyme-adapter-react-16": "^1.0.2",
     "react": "^16.3.2",
     "react-dom": "^16.3.2",
     "react-scripts-ts": "2.16.0"
@@ -28,6 +29,7 @@
     "commitizen": "^2.9.6",
     "cz-conventional-changelog": "^2.1.0",
     "enzyme": "^3.3.0",
+    "enzyme-adapter-react-16": "^1.1.1",
     "react-addons-test-utils": "^15.6.2",
     "typescript": "^2.8.3"
   }
