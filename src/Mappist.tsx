@@ -3,7 +3,7 @@ import { Fragment } from 'react'
 
 export interface Props {
   keyProp: string
-  data: any[]
+  data: Object[]
   component: React.ComponentType
 }
 
