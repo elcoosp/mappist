@@ -3,10 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@types/enzyme-adapter-react-16": "^1.0.2",
-    "react": "^16.3.2",
-    "react-dom": "^16.3.3",
-    "react-scripts-ts": "4.0.1"
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-scripts-ts": "3.1.0"
   },
   "scripts": {
     "commit": "git-cz",
@@ -21,16 +20,13 @@
     }
   },
   "devDependencies": {
-    "@types/enzyme": "^3.1.10",
-    "@types/jest": "^22.2.3",
-    "@types/node": "^10.1.1",
-    "@types/react": "^16.3.14",
-    "@types/react-dom": "^16.0.5",
-    "commitizen": "^2.9.6",
-    "cz-conventional-changelog": "^2.1.0",
-    "enzyme": "^3.3.0",
-    "enzyme-adapter-react-16": "^1.1.1",
+    "@types/jest": "^30.0.0",
+    "@types/node": "^24.10.0",
+    "@types/react": "^19.2.2",
+    "@types/react-dom": "^19.2.2",
+    "commitizen": "^4.3.1",
+    "cz-conventional-changelog": "^3.3.0",
     "react-addons-test-utils": "^15.6.2",
-    "typescript": "^2.8.3"
+    "typescript": "^5.9.3"
   }
 }
